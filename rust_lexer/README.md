@@ -4,7 +4,7 @@ This is a rust implementation of a lexer for a simple programming language. The 
 
 I want to do this since I want to learn rust and how programming languages work.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.loom.com/share/06996f0e4c544345abc72059e20da4bd)
 
 # Development Environment
 
