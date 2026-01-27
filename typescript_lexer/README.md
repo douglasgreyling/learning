@@ -10,7 +10,7 @@ A lexer processes the input text character by character, grouping them into toke
 
 I want to do this since I want to learn TypeScript and how programming languages work.
 
-[Software Demo Video](https://www.loom.com/share/8d37f749525d4529893ec209271cfc68)
+[Software Demo Video](https://www.loom.com/share/ae6b99c7f570491bbcfe14f2139b7d5f)
 
 # Development Environment
 
